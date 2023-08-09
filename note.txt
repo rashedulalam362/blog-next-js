@@ -1,1 +1,15 @@
+# Next.js Project Structure
+#Top-level folders
+# App-In version 13, Next.js introduced a new App Router built on React Server Components, which supports shared layouts, nested routing, loading states, error handling, and more
+# Pages-Pages Router -The Pages Router has a file-system based router built on concepts of pages.
+# Public -Static assets to be served 
+# Src-Optional application source folder
+
+#Top-level files:
+# next.config.js: Configuration file for Next.js
+# package.json : Project dependencies and scripts
+# middleware.ts: Next.js request middleware
+# .env  -Environment variables
+# .eslintrc.json -Configuration file for ESLint
+# .gitignore -Git files and folders to ignore
 
